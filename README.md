@@ -2,11 +2,11 @@
 
 
 ## TODO
-[] Startum Server (v2)
-[] Miner List
-[] Job Manager
-[] RPC Client
-[] WS Client
+[] Startum Server (v2) <br>
+[] Miner List <br>
+[] Job Manager <br>
+[] RPC Client <br>
+[] WS Client <br>
 
 
 # Dependencies
