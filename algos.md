@@ -7,6 +7,9 @@
 + autolykos2
 + etchash
 + equihash
++ heavyhash
++ sha256
++ scrypt
 
 ## current suppored
 > supported algos
